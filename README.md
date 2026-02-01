@@ -12,6 +12,22 @@ Python 3
 Mullvad VPN CLI installed and available in PATH
 
 Usage
+Install mullvad-cli
+
+Debian / Ubuntu / Kali
+
+sudo apt update
+sudo apt install mullvad-vpn
+
+
+Arch
+
+sudo pacman -S mullvad-vpn
+
+
+macOS
+
+brew install mullvad-vpn
 
 Put account IDs (16 digits) into list.txt, then run:
 
