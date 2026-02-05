@@ -1,4 +1,3 @@
-smert@smert:~/Pictures$ cat checker.py 
 import subprocess
 import re
 import time
